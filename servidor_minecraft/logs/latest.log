@@ -3705,3 +3705,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [06:36:38] [Server thread/INFO] [firstaid]: Quality Tools mod present. Enabling compat...
 [06:36:44] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
 [06:36:44] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:41:33] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[06:41:33] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[06:41:33] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[06:41:33] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[06:41:33] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[06:41:33] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[06:41:33] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[06:41:33] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_953_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[06:41:33] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[06:41:33] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[06:41:33] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[06:41:33] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[06:41:33] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[06:41:33] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[06:41:33] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[06:41:33] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[06:43:15] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[06:43:15] [Server thread/INFO] [RB-Transformer]:  - <init>
+[06:43:15] [Server thread/INFO] [RB-Transformer]:  - Done
+[06:43:15] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[06:43:15] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[06:43:15] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[06:43:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT has made the advancement [Getting an Upgrade]
+[06:44:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT has made the advancement [Stone Age]
