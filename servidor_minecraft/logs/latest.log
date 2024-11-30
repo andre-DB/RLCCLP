@@ -4406,3 +4406,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [08:57:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Xx_YulsYT_xX> zzz
 [08:58:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Xx_YulsYT_xX lost connection: Disconnected
 [08:58:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Xx_YulsYT_xX left the game
+[09:03:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: trollegamer was slain by Darkling
+[09:03:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: trollegamer lost connection: Disconnected
+[09:03:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: trollegamer left the game
+[09:05:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT lost connection: Disconnected
+[09:05:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT left the game
+[09:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[09:06:30] [Server thread/INFO] [AUW]: Stopping DS...
+[09:06:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[09:06:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[09:06:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[09:06:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[09:06:32] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[09:06:32] [Server thread/INFO] [FML]: Unloading dimension 0
+[09:06:32] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[09:06:32] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[09:06:32] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
