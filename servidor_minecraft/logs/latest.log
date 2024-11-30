@@ -4003,3 +4003,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [07:30:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Xx_YulsYT_xX> CTMR
 [07:30:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported Xx_YulsYT_xX to MrAgic_YT]
 [07:31:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Xx_YulsYT_xX has made the advancement [Stone Age]
+[07:44:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was slain by Geonach
+[07:44:37] [Thread-128/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 088e63f7-2470-3149-9969-d09ec93dc472.
+[07:44:41] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2383ms behind, skipping 47 tick(s)
+[07:44:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved wrongly!
+[07:45:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was pummeled by Reaper
+[07:45:08] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2001ms behind, skipping 40 tick(s)
+[07:45:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported MrAgic_YT to Xx_YulsYT_xX]
+[07:47:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Xx_YulsYT_xX has made the advancement [Getting an Upgrade]
+[07:48:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was slain by Roc
+[07:48:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported MrAgic_YT to Xx_YulsYT_xX]
+[07:48:19] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2150ms behind, skipping 43 tick(s)
+[07:50:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Xx_YulsYT_xX was slain by Warg
+[07:50:11] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=2968, y=41, z=6488}
+[07:50:15] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2953ms behind, skipping 59 tick(s)
+[07:50:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported Xx_YulsYT_xX to MrAgic_YT]
+[07:51:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Xx_YulsYT_xX has made the advancement [Monster Hunter]
