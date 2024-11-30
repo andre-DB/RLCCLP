@@ -3729,3 +3729,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [06:43:15] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
 [06:43:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT has made the advancement [Getting an Upgrade]
 [06:44:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT has made the advancement [Stone Age]
+[07:02:36] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -8792 | -2328 ], underground: false
