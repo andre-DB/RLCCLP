@@ -4019,3 +4019,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [07:50:15] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2953ms behind, skipping 59 tick(s)
 [07:50:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported Xx_YulsYT_xX to MrAgic_YT]
 [07:51:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Xx_YulsYT_xX has made the advancement [Monster Hunter]
+[07:54:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT has made the advancement [Sweet dreams]
+[07:54:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved wrongly!
+[08:00:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Xx_YulsYT_xX was slain by Geonach
+[08:00:22] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -9144 | -440 ], underground: false
+[08:00:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2486ms behind, skipping 49 tick(s)
+[08:00:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Xx_YulsYT_xX has made the advancement [Best Friends Forever]
+[08:01:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported Xx_YulsYT_xX to MrAgic_YT]
