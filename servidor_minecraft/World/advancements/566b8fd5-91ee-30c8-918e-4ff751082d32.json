@@ -1,17 +1,11 @@
 {
-  "minecraft:recipes/combat/wooden_sword": {
+  "minecraft:recipes/redstone/noteblock": {
     "criteria": {
-      "has_stick": "2024-11-30 08:19:15 +0000"
+      "has_redstone": "2024-11-30 08:41:10 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2024-11-30 08:31:00 +0000"
-    },
-    "done": true
-  },
-  "familiarfauna:recipes/tools/bug_net": {
     "criteria": {
       "has_string": "2024-11-30 08:31:00 +0000"
     },
@@ -23,31 +17,37 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-11-30 08:41:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-11-30 08:19:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
-      "entered_water": "2024-11-30 08:22:10 +0000"
+      "has_leather": "2024-11-30 08:37:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "minecraft:recipes/redstone/lever": {
     "criteria": {
-      "has_bowl": "2024-11-30 08:31:00 +0000"
+      "has_cobblestone": "2024-11-30 08:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-11-30 08:41:10 +0000"
     },
     "done": true
   },
   "mujmajnkraftsbettersurvival:wood_nunchaku": {
-    "criteria": {
-      "has_stick": "2024-11-30 08:19:15 +0000"
-    },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:wood_hammer": {
     "criteria": {
       "has_stick": "2024-11-30 08:19:15 +0000"
     },
@@ -65,33 +65,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-11-30 08:37:38 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/season_clock": {
+    "criteria": {
+      "has_redstone": "2024-11-30 08:41:10 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:stone_spear": {
+    "criteria": {
+      "has_stone": "2024-11-30 08:39:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-11-30 08:21:37 +0000"
     },
     "done": true
   },
-  "mujmajnkraftsbettersurvival:crossbow": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "has_string": "2024-11-30 08:31:00 +0000"
+      "get_stone": "2024-11-30 08:39:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_hoe": {
+  "minecraft:recipes/decorations/furnace": {
     "criteria": {
-      "has_stick": "2024-11-30 08:19:15 +0000"
+      "has_cobblestone": "2024-11-30 08:39:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
-      "has_slime_ball": "2024-11-30 08:21:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2024-11-30 08:31:00 +0000"
+      "has_leather": "2024-11-30 08:37:02 +0000"
     },
     "done": true
   },
@@ -111,9 +123,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_bone": "2024-11-30 08:21:10 +0000"
+      "has_planks": "2024-11-30 08:37:38 +0000"
     },
     "done": true
   },
@@ -129,6 +141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-11-30 08:41:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-11-30 08:22:05 +0000"
@@ -141,13 +159,25 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_shovel": {
+  "minecraft:recipes/combat/stone_sword": {
     "criteria": {
-      "has_stick": "2024-11-30 08:19:15 +0000"
+      "has_cobblestone": "2024-11-30 08:39:25 +0000"
     },
     "done": true
   },
-  "mujmajnkraftsbettersurvival:wood_spear": {
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-30 08:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 08:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-11-30 08:19:15 +0000"
     },
@@ -159,15 +189,33 @@
     },
     "done": true
   },
-  "mujmajnkraftsbettersurvival:wood_battleaxe": {
+  "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "has_stick": "2024-11-30 08:19:15 +0000"
+      "has_stone_pickaxe": "2024-11-30 08:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 08:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-30 08:37:38 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-11-30 08:21:08 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:stone_nunchaku": {
+    "criteria": {
+      "has_stone": "2024-11-30 08:39:25 +0000"
     },
     "done": true
   },
@@ -183,9 +231,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-11-30 08:37:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2024-11-30 08:22:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2024-11-30 08:37:38 +0000"
     },
     "done": true
   },
@@ -198,6 +258,228 @@
   "reskillable:main/root": {
     "criteria": {
       "level_up": "2024-11-30 08:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-11-30 08:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_planks": "2024-11-30 08:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 08:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-11-30 08:37:02 +0000"
+    },
+    "done": true
+  },
+  "familiarfauna:recipes/tools/bug_net": {
+    "criteria": {
+      "has_string": "2024-11-30 08:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 08:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-11-30 08:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2024-11-30 08:22:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-11-30 08:33:53 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:stone_battleaxe": {
+    "criteria": {
+      "has_stone": "2024-11-30 08:39:25 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:stone_hammer": {
+    "criteria": {
+      "has_stone": "2024-11-30 08:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-11-30 08:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-11-30 08:41:10 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:wood_hammer": {
+    "criteria": {
+      "has_stick": "2024-11-30 08:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-30 08:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2024-11-30 08:37:38 +0000"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/wheel": {
+    "criteria": {
+      "has_planks": "2024-11-30 08:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-11-30 08:19:15 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:crossbow": {
+    "criteria": {
+      "has_string": "2024-11-30 08:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-11-30 08:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-11-30 08:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 08:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-11-30 08:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-11-30 08:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 08:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-30 08:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-11-30 08:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-11-30 08:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-11-30 08:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-11-30 08:39:29 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:wood_spear": {
+    "criteria": {
+      "has_stick": "2024-11-30 08:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-30 08:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-11-30 08:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-11-30 08:41:10 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:wood_battleaxe": {
+    "criteria": {
+      "has_stick": "2024-11-30 08:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-30 08:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-11-30 08:37:02 +0000"
     },
     "done": true
   }
