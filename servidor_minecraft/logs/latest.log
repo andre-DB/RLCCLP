@@ -3709,3 +3709,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:04:26] [Server thread/INFO] [XAT]: Syncing Config to MrAgic_YT
 [21:04:59] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 8 | 9576 ], underground: false
 [21:08:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[21:20:02] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@4dc1bff9)
+[21:20:02] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[21:20:02] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[21:20:02] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[21:20:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 8522ms behind, skipping 170 tick(s)
+[21:20:12] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[21:20:13] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:21:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved wrongly!
+[21:22:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved wrongly!
+[21:22:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved wrongly!
