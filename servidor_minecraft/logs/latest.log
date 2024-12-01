@@ -4103,3 +4103,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:19:17] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
 [23:19:18] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
 [23:19:18] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[23:27:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT has made the advancement [The Scarlet Crusade]
+[23:28:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT has made the advancement [Take Aim]
+[23:33:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was struck by lightning
+[23:33:42] [Thread-260/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 088e63f7-2470-3149-9969-d09ec93dc472.
+[23:33:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2005ms behind, skipping 40 tick(s)
+[23:36:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved too quickly! 9.037674846939808,-1.0,-4.2561124216153985
+[23:36:33] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5501ms behind, skipping 110 tick(s)
+[23:36:40] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:36:40] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment

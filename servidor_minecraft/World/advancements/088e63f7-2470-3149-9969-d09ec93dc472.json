@@ -360,6 +360,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/scarlite_reaver": {
+    "criteria": {
+      "has_material": "2024-12-01 23:27:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-30 00:30:30 +0000"
@@ -832,6 +838,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/baubles/scarlite_ring": {
+    "criteria": {
+      "has_material": "2024-12-01 23:27:31 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/material/remorseful_gem": {
     "criteria": {
       "has_material": "2024-12-01 21:18:56 +0000"
@@ -844,6 +856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2024-12-01 23:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-01 04:03:49 +0000"
@@ -853,6 +871,12 @@
   "defiledlands:recipes/armor/umbrium_boots": {
     "criteria": {
       "has_material": "2024-12-01 23:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_lapis": "2024-12-01 23:29:04 +0000"
     },
     "done": true
   },
@@ -874,6 +898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_lapis": "2024-12-01 23:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-01 04:23:19 +0000"
@@ -883,6 +913,12 @@
   "defiledlands:recipes/armor/umbrium_leggings": {
     "criteria": {
       "has_material": "2024-12-01 23:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2024-12-01 23:29:04 +0000"
     },
     "done": true
   },
@@ -1132,6 +1168,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/misc/calling_stone": {
+    "criteria": {
+      "has_material": "2024-12-01 23:27:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 08:14:19 +0000"
@@ -1270,6 +1312,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/concussion_smasher": {
+    "criteria": {
+      "has_material": "2024-12-01 23:27:31 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:diamond_spear": {
     "criteria": {
       "has_diamond": "2024-12-01 04:23:19 +0000"
@@ -1279,6 +1327,12 @@
   "defiledlands:recipes/tools/umbra_blaster": {
     "criteria": {
       "has_material": "2024-12-01 23:06:42 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:main/scarlite": {
+    "criteria": {
+      "scarlite": "2024-12-01 23:27:31 +0000"
     },
     "done": true
   },
@@ -1380,9 +1434,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2024-12-01 23:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2024-11-29 06:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-01 23:28:11 +0000"
     },
     "done": true
   },
@@ -1437,6 +1503,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-11-30 07:49:10 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/scarlite_razor": {
+    "criteria": {
+      "has_material": "2024-12-01 23:27:31 +0000"
     },
     "done": true
   },
@@ -1539,6 +1611,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-11-30 06:44:10 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/healing_pad": {
+    "criteria": {
+      "has_material": "2024-12-01 23:27:31 +0000"
     },
     "done": true
   },
