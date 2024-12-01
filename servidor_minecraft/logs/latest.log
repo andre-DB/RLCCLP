@@ -3708,3 +3708,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:04:26] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player MrAgic_YT
 [21:04:26] [Server thread/INFO] [XAT]: Syncing Config to MrAgic_YT
 [21:04:59] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 8 | 9576 ], underground: false
+[21:08:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
