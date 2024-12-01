@@ -3909,3 +3909,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:40:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: trynoxx was slain by Herma  Lvl 2
 [04:40:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3228ms behind, skipping 64 tick(s)
 [04:40:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported trynoxx to MrAgic_YT]
+[04:42:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: trynoxx was slain by Raiko  Lvl 2
+[04:42:08] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIForage
+[04:42:08] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAILeaveHive
+[04:42:08] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIMoveThroughHive
+[04:42:08] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIReEnterHive
+[04:42:08] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedProximityTaskOldMyrmex
+[04:42:08] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIEscortEntity
+[04:42:08] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIFindHidingSpot
+[04:42:08] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=-6056, y=45, z=3656}
+[04:42:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported trynoxx to MrAgic_YT]
+[04:42:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported trynoxx to MrAgic_YT]
+[04:43:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: trynoxx was slain by Thresher  Lvl 2
+[04:43:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was slain by Thresher  Lvl 2
+[04:43:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was slain by Banshee  Lvl 2
+[04:45:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: trynoxx lost connection: Disconnected
+[04:45:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: trynoxx left the game
+[04:46:22] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[04:46:22] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[04:46:22] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[04:46:22] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[04:46:22] [Server thread/INFO] [Meson ASM]: Patch result: true
+[04:50:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT lost connection: Disconnected
+[04:50:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT left the game
