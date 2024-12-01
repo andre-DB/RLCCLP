@@ -3842,3 +3842,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:06:50] [Server thread/INFO] [Meson ASM]: Located method, patching...
 [04:06:50] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
 [04:06:50] [Server thread/INFO] [Meson ASM]: Patch result: true
+[04:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT has made the advancement [Attack!]
+[04:13:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: trynoxx was slain by Zombie
+[04:14:07] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5471ms behind, skipping 109 tick(s)
+[04:14:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported trynoxx to MrAgic_YT]
+[04:16:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: trynoxx has made the advancement [Acquire Hardware]
+[04:17:29] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:17:29] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:17:29] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:17:36] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:17:40] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:17:40] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:17:40] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:17:40] [Server thread/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.items.VanillaInventoryCodeHooks
+[04:17:40] [Server thread/INFO] [RLTweakerASM]: Writing class net.minecraftforge.items.VanillaInventoryCodeHooks with flags MAXS
+[04:18:09] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:18:09] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:18:09] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:18:12] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:18:13] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:18:38] [Server thread/ERROR] [reccomplex]: Error preparing structure: StoneMazeHuge, Cause: Maze generation timed out: StoneMaze
+[04:18:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: trynoxx moved too quickly! -6.152719482711689,-0.2349680237121703,8.045980712053279
+[04:18:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved too quickly! -8.337391312009117,-2.0,-5.198842697294822
+[04:18:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 10949ms behind, skipping 218 tick(s)
+[04:18:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported MrAgic_YT to trynoxx]
+[04:18:47] [pool-11-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[04:18:47] [pool-11-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[17, 0, 3], dest=[17, 0, 2]}=Path, MazePassage{source=[17, 1, 2], dest=[17, 0, 2]}=Wall, MazePassage{source=[17, -1, 2], dest=[17, 0, 2]}=Wall]
+[04:19:00] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:19:00] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:19:00] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:19:00] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:19:05] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:19:05] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
