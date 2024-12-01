@@ -4069,3 +4069,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:37:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT went up in flames
 [22:37:34] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2676ms behind, skipping 53 tick(s)
 [22:39:03] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2171ms behind, skipping 43 tick(s)
+[23:00:32] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 102 and chunkZ 204...
+[23:00:32] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_villager_house at {"x": 1706, "y": 0, "z": 3286}...
+[23:00:33] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_villager_house at {"x": 1706, "y": 0, "z": 3286}.
+[23:02:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved wrongly!
+[23:04:34] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 1512 | 3048 ], underground: true
+[23:06:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT has made the advancement [Deep Purple]

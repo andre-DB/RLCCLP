@@ -2880,10 +2880,18 @@
     },
     "207:10": {
       "questID:3": 207,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "uuid:8": "088e63f7-2470-3149-9969-d09ec93dc472",
+          "timestamp:4": 1733094283166
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
+          "completeUsers:9": {
+            "0:8": "088e63f7-2470-3149-9969-d09ec93dc472"
+          },
           "index:3": 0,
           "taskID:8": "bq_msi:location"
         }
