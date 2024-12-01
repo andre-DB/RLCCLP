@@ -3719,3 +3719,117 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:21:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved wrongly!
 [21:22:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved wrongly!
 [21:22:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved wrongly!
+[21:29:00] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2736ms behind, skipping 54 tick(s)
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 5.583051660013382,-1.0,8.673848448104764
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 6.11565299113812,-1.0,8.988993832916094
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 6.662037418264731,-1.0,9.289073332549378
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 7.215796905256639,-1.0,9.581091377403936
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 7.773502639739661,-1.0,9.868795898535609
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 8.333319932575478,-1.0,10.154192339125075
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 8.894267078185976,-1.0,10.438353771834954
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 9.455818785489328,-1.0,10.721854376452029
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 10.017693981700916,-1.0,11.005001385130527
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 10.579742270377608,-1.0,11.287959191673508
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 11.14188317738126,-1.0,11.570815759925608
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 11.614189689272166,-1.0,11.951952633939072
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 12.038427607442884,-1.0,12.38567734006756
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 12.436944979498264,-1.0,12.847540746672166
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 12.821699800139697,-1.0,13.324460610876486
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 13.199090553915198,-1.0,13.809436885348987
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 13.572540942334399,-1.0768320014953616,14.298723984327808
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 13.789518414031136,-1.2274534586630068,14.583510355774706
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 14.000170543518038,-1.4489423104376016,14.86046144926513
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 14.205181732659582,-1.7384922093173572,15.130425041672424
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 14.405162331056204,-2.0,15.394157180433467
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 14.635183877642362,-2.0,15.91734446605733
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 14.809942664881987,-2.0,16.485282508863747
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 14.955131451415866,-2.0,17.077165789605715
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 15.084497920134254,-2.0,17.681861689748985
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 15.20539818205259,-2.0768320014953616,18.293413367078756
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 15.275257387397403,-2.227453458663007,18.649441578303595
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 15.342725714202857,-2.4489423104376016,18.99574664793363
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 15.408061855465519,-2.738492209317357,19.333380619640593
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 15.483480242573876,-3.0,19.657461204402352
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 15.72225448256927,-3.0768320014953616,20.176262242113808
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 15.867169432397134,-3.227453458663007,20.476840933732092
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 16.001572474061618,-3.4489423104376016,20.773696120351815
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 16.126600995755837,-3.738492209317357,21.067230685119284
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 16.243269320299646,-4.0,21.357803919234357
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 16.39899297892265,-4.0,21.90492809438365
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 11.457787177296211,-3.0,14.155127545716823
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 11.581703685531465,-3.0,14.753864213405905
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 11.69968778225575,-3.0,15.362227224262824
+[21:29:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 11.814497563860073,-3.0,15.975741099420702
+[21:29:08] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 520 | 9768 ], underground: true
+[21:29:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[21:29:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 2.2382207089842154,0.38797440366435865,9.852914787461486
+[21:29:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 2.1579601884711224,0.3284532348504854,10.210032837501785
+[21:29:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 2.067107414071131,0.19445710171370933,10.550522406098025
+[21:29:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 1.9658871900532517,-0.011064788550868343,10.875340506960129
+[21:29:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! 1.854708676456994,-0.28528001729794994,11.185479222993308
+[21:29:44] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3223ms behind, skipping 64 tick(s)
+[21:29:54] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 0 and chunkZ 612...
+[21:29:54] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_ice_builtin_custom_loot at {"x": -145, "y": 0, "z": 9788}...
+[21:29:57] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_ice_builtin_custom_loot at {"x": -145, "y": 0, "z": 9788}.
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -9.88793004911588,-3.0,-0.11000439285271568
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -10.501776363760229,-3.0,-0.10478143434011145
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -11.116946649691386,-3.0,-0.10093284135655267
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -11.73272621393437,-3.0,-0.10939877031341894
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -12.346209514309749,-2.0,-0.15352594454998325
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -12.894865958795634,-2.0,-0.3695851184311323
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -13.400812551754683,-1.0,-0.6864597226267506
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -13.886892266616798,-1.0,-1.0540799553782563
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -14.114646682913047,0.0,-1.39046136764955
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -14.227475062248487,1.0,-1.7135367614864663
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -14.287847278475681,1.0,-1.8864079633003712
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -14.243565016097392,1.0,-1.8577080951472453
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -14.10017650312264,1.0,-1.7634324340433523
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -13.989640726134382,0.9231679985046384,-1.4223565900265385
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -13.924545106122679,0.7725465413369932,-1.2112059965747903
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -13.860240915165178,0.5510576895623984,-0.9943185254833224
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -13.797616034939779,0.26150779068264285,-0.7721192228545988
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -13.75040327095084,-0.09340793910909895,-0.5466193919328362
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -13.716935032617698,-0.5111010141305457,-0.3181761497944535
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -13.695724162617665,-0.9890854526840371,-0.08710797345702304
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -13.685444414012096,-1.5249737179006644,0.14630111926635436
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -13.684913039747101,-2.0,0.3817978412826051
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -13.888507888260705,-2.0,0.8019533668466465
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -14.201042280970569,-2.0,1.236909754396038
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -14.57186805175968,-2.0,1.6797857880974334
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -14.973884376754285,-2.0768320014953616,2.1268994665533683
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -15.209354786984875,-2.227453458663007,2.387155037928096
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -15.439706794947227,-2.4489423104376016,2.6402649196843413
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -15.665494211635206,-2.738492209317357,2.8870022752580553
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -15.887210925707393,-3.0,3.128056611816646
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -16.28853274552904,-3.0,3.5531684181733
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -16.705776237644073,-3.0,3.9918280449765007
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -17.129607223215288,-3.0,4.439572469729683
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -17.555014494850923,-3.0,4.893995930400706
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -17.977172229280967,-3.0,5.355706102558543
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -18.394045857265183,-3.0,5.824420039796678
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -18.6840285212686,-3.0768320014953616,6.354039947736965
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -18.839192463146247,-3.227453458663014,6.637429000993507
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -18.97756767050069,-3.4489423104376087,6.890155365972532
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -19.09977901832457,-3.7384922093173643,7.108468006879775
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -19.207678570116286,-4.0,7.296073872981651
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -19.293405444091206,-4.0,7.392468845280746
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -19.32890742633316,-4.0,7.373116930157266
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -19.337535070385115,-4.0,7.291831163316601
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -19.331782791888116,-4.0,7.1774058272512775
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -19.176474212165886,-4.0,7.065985686049316
+[21:29:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -18.941160289789252,-4.0,6.9561151782272646
+[21:29:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -9.386519629887772,-1.0,6.962301199695503
+[21:29:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -9.085490060299321,-1.0,6.853703546374163
+[21:29:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of MrAgic_YT) moved too quickly! -8.914073583683205,-1.0,6.724660185782341
+[21:29:58] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ 8 | 9992 ], underground: false
+[21:32:08] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -184 | 9640 ], underground: true
+[21:33:23] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -248 | 9384 ], underground: false
+[21:33:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved wrongly!
+[21:33:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved wrongly!
+[21:34:02] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIForage
+[21:34:02] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAILeaveHive
+[21:34:02] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIMoveThroughHive
+[21:34:02] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIReEnterHive
+[21:34:02] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedProximityTaskOldMyrmex
+[21:34:02] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIFindHidingSpot
+[21:34:02] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIEscortEntity
