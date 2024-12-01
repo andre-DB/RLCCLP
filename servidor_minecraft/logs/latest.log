@@ -3932,3 +3932,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:46:22] [Server thread/INFO] [Meson ASM]: Patch result: true
 [04:50:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT lost connection: Disconnected
 [04:50:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT left the game
+[04:51:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[04:51:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[04:51:12] [Server thread/INFO] [AUW]: Stopping DS...
+[04:51:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:51:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:51:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[04:51:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[04:51:14] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[04:51:14] [Server thread/INFO] [FML]: Unloading dimension 0
+[04:51:14] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:51:14] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:51:14] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
