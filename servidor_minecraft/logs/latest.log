@@ -3898,3 +3898,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:30:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported MrAgic_YT to trynoxx]
 [04:30:25] [Server thread/WARN] [reccomplex]: Failed to find preset (placer preset): Surface
 [04:30:25] [Server thread/WARN] [reccomplex]: Failed to find preset (placer preset): Surface
+[04:36:44] [Server thread/INFO] [ISeeDragons]: ATTEMPTING TO PATCH  com.github.alexthe666.iceandfire.entity.EntityGorgon$4!
+[04:36:44] [Server thread/INFO] [ISeeDragons]: Applying patch [HookGorgonHead] Hook EntityGorgon$4 to stop some entities from getting stoned
+[04:36:44] [Server thread/INFO] [ISeeDragons]: Writing class com.github.alexthe666.iceandfire.entity.EntityGorgon$4 with flags FRAMES
+[04:36:44] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[04:36:44] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[04:36:44] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[04:37:38] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 7208 | -2776 ], underground: false
+[04:39:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported MrAgic_YT to trynoxx]
+[04:40:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: trynoxx was slain by Herma  Lvl 2
+[04:40:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3228ms behind, skipping 64 tick(s)
+[04:40:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported trynoxx to MrAgic_YT]
