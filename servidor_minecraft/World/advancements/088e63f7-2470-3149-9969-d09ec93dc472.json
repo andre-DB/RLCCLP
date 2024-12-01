@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-01 04:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-11-30 07:49:10 +0000"
@@ -587,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2024-12-01 04:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-11-30 07:53:57 +0000"
@@ -846,6 +858,7 @@
       "zombie_villager": "2024-11-30 06:36:29 +0000",
       "skeleton": "2024-12-01 03:37:29 +0000",
       "zombie": "2024-11-30 08:00:05 +0000",
+      "cave_spider": "2024-12-01 04:06:50 +0000",
       "enderman": "2024-12-01 03:36:35 +0000"
     },
     "done": false
