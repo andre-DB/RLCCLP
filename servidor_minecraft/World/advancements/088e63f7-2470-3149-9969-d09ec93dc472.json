@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "familiarfauna:recipes/tools/bug_net": {
+    "criteria": {
+      "has_string": "2024-12-01 03:46:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-30 00:30:30 +0000"
@@ -380,6 +386,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 08:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-01 03:46:33 +0000"
     },
     "done": true
   },
@@ -530,6 +542,12 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-11-30 07:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-01 03:46:33 +0000"
     },
     "done": true
   },
@@ -858,6 +876,12 @@
   "astikorcarts:recipes/wheel": {
     "criteria": {
       "has_planks": "2024-11-30 06:42:05 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:crossbow": {
+    "criteria": {
+      "has_string": "2024-12-01 03:46:33 +0000"
     },
     "done": true
   },

@@ -3706,3 +3706,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:39:50] [Thread-37/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for b3527664-ffeb-34ae-9410-bb0a635286e1.
 [03:39:53] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2832ms behind, skipping 56 tick(s)
 [03:40:04] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 4840 | 6728 ], underground: true
+[03:40:15] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7549ms behind, skipping 150 tick(s)
+[03:40:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was slain by Gnekk
+[03:41:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported MrAgic_YT to PRIME_121]
+[03:42:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PRIME_121 was slain by MrAgic_YT
+[03:42:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2284ms behind, skipping 45 tick(s)
+[03:42:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported PRIME_121 to MrAgic_YT]
+[03:47:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was slain by Abaia
+[03:47:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported MrAgic_YT to PRIME_121]
+[03:49:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was pummeled by Jengu
+[03:49:57] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[03:49:57] [Server thread/INFO] [RB-Transformer]:  - <init>
+[03:49:57] [Server thread/INFO] [RB-Transformer]:  - Done
+[03:49:57] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[03:49:57] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[03:49:57] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
