@@ -3885,3 +3885,64 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:53:55] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
 [21:53:56] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
 [21:54:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved too quickly! 1.762134911915382,-10.172304139124662,1.4257103675327016
+[22:16:10] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:pixelmon.trainer
+[22:16:10] [Server thread/ERROR] [reccomplex]: Error loading entity with ID 'pixelmon.Trainer'
+[22:18:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was slain by Lux Krake  Lvl 2
+[22:18:40] [Thread-156/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 088e63f7-2470-3149-9969-d09ec93dc472.
+[22:18:42] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 6024 | 1416 ], underground: true
+[22:18:46] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[22:18:46] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[22:18:46] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[22:18:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2685ms behind, skipping 53 tick(s)
+[22:18:47] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[22:18:47] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[22:18:47] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[22:18:48] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[22:18:48] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[22:18:48] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[22:18:48] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[22:18:49] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[22:18:49] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[22:18:49] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[22:25:51] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:51] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:51] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:51] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:51] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:51] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:51] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:51] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:52] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:52] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:52] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:52] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:52] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:52] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:52] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:52] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:53] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:53] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:53] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:53] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:54] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:54] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:54] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:54] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:56] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:56] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:56] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:57] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:57] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:57] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:58] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:58] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:58] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:59] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:25:59] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:26:01] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:26:01] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:26:02] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:26:02] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:26:03] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:26:04] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
+[22:26:06] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@79777da7
