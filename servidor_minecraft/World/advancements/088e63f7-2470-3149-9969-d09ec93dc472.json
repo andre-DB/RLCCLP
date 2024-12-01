@@ -209,15 +209,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2024-12-01 04:24:04 +0000"
-    },
-    "done": true
-  },
   "mujmajnkraftsbettersurvival:diamond_nunchaku": {
     "criteria": {
       "has_diamond": "2024-12-01 04:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-01 04:24:04 +0000"
     },
     "done": true
   },
@@ -679,6 +679,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-01 04:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-01 20:48:48 +0000"
     },
     "done": true
   },
