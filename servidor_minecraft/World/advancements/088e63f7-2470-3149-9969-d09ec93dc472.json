@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-01 04:21:44 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:stone_spear": {
     "criteria": {
       "has_stone": "2024-11-30 06:44:10 +0000"
@@ -89,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-01 04:23:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 08:14:19 +0000"
@@ -98,6 +110,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-30 00:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-01 04:21:06 +0000"
     },
     "done": true
   },
@@ -128,6 +146,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-11-30 07:49:10 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:diamond_battleaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-01 04:23:19 +0000"
     },
     "done": true
   },
@@ -203,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-01 04:23:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2024-11-30 07:49:10 +0000"
@@ -251,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-01 04:23:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow_layer": {
     "criteria": {
       "has_snowball": "2024-11-30 07:37:54 +0000"
@@ -296,6 +332,18 @@
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2024-11-30 07:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-01 04:24:04 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:diamond_nunchaku": {
+    "criteria": {
+      "has_diamond": "2024-12-01 04:23:19 +0000"
     },
     "done": true
   },
@@ -456,9 +504,21 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-01 04:23:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-11-30 00:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-01 04:21:06 +0000"
     },
     "done": true
   },
@@ -513,6 +573,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2024-11-30 07:49:10 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:diamond_hammer": {
+    "criteria": {
+      "has_diamond": "2024-12-01 04:23:19 +0000"
     },
     "done": true
   },
@@ -624,9 +690,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-01 04:23:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-11-30 06:44:10 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:diamond_spear": {
+    "criteria": {
+      "has_diamond": "2024-12-01 04:23:19 +0000"
     },
     "done": true
   },
@@ -667,6 +745,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2024-12-01 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-01 04:23:19 +0000"
     },
     "done": true
   },
@@ -868,6 +952,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-01 04:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-01 04:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-01 04:23:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-11-30 07:49:10 +0000"
@@ -883,6 +985,12 @@
       "enderman": "2024-12-01 03:36:35 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-01 04:23:19 +0000"
+    },
+    "done": true
   },
   "wolfarmor:recipes/combat/iron_wolf_armor": {
     "criteria": {
@@ -944,9 +1052,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-01 04:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-11-30 06:44:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-01 04:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-01 04:23:19 +0000"
     },
     "done": true
   },
@@ -959,6 +1085,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2024-11-30 07:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-01 04:23:19 +0000"
     },
     "done": true
   },

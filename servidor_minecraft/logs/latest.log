@@ -3874,3 +3874,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:19:00] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
 [04:19:05] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
 [04:19:05] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[04:20:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported MrAgic_YT to trynoxx]
+[04:22:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: trynoxx has made the advancement [Ice Bucket Challenge]
+[04:22:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: trynoxx has made the advancement [Suit Up]
+[04:23:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT has made the advancement [Diamonds!]
+[04:23:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT has made the advancement [Isn't It Iron Pick]
+[04:25:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: trynoxx moved wrongly!
+[04:26:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: trynoxx has made the advancement [Sweet dreams]
+[04:26:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was pummeled by Azure Reaper
+[04:26:30] [Thread-121/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 088e63f7-2470-3149-9969-d09ec93dc472.
+[04:29:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: trynoxx was shot by Skeleton
+[04:29:44] [Thread-127/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 38a2a6c9-7c1a-3e46-ab34-4cba0a350620.
+[04:29:48] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2285ms behind, skipping 45 tick(s)
+[04:29:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved wrongly!
+[04:29:54] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 4072 | 5064 ], underground: false
+[04:29:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: trynoxx was slain by Abaia  Lvl 2
+[04:30:10] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 459 and chunkZ -153...
+[04:30:10] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_ice_builtin_custom_loot at {"x": 7154, "y": 0, "z": -2605}...
+[04:30:13] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_ice_builtin_custom_loot at {"x": 7154, "y": 0, "z": -2605}.
+[04:30:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was slain by Stryder
+[04:30:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: trynoxx moved too quickly! -6.901000033031778,-7.125,-1.473702897979365
+[04:30:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 14884ms behind, skipping 297 tick(s)
+[04:30:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MrAgic_YT: Teleported MrAgic_YT to trynoxx]
+[04:30:25] [Server thread/WARN] [reccomplex]: Failed to find preset (placer preset): Surface
+[04:30:25] [Server thread/WARN] [reccomplex]: Failed to find preset (placer preset): Surface
