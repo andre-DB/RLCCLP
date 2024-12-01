@@ -825,7 +825,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2024-11-30 06:36:29 +0000",
-      "zombie": "2024-11-30 08:00:05 +0000"
+      "skeleton": "2024-12-01 03:37:29 +0000",
+      "zombie": "2024-11-30 08:00:05 +0000",
+      "enderman": "2024-12-01 03:36:35 +0000"
     },
     "done": false
   },
