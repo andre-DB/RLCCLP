@@ -3739,3 +3739,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [05:37:42] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
 [05:37:42] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
 [05:37:42] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:46:33] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -306 and chunkZ 459...
+[05:46:34] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_desert_builtin_custom_loot at {"x": -5053, "y": 0, "z": 7601}...
+[05:46:37] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_desert_builtin_custom_loot at {"x": -5053, "y": 0, "z": 7601}.
+[05:46:37] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3283ms behind, skipping 65 tick(s)
+[05:46:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved too quickly! -9.799604498152803,3.0,0.40887710897914076
+[05:48:31] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:48:31] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:48:31] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:48:53] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:48:58] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:48:58] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:48:58] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:48:58] [Server thread/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.items.VanillaInventoryCodeHooks
+[05:48:58] [Server thread/INFO] [RLTweakerASM]: Writing class net.minecraftforge.items.VanillaInventoryCodeHooks with flags MAXS
+[05:49:41] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:49:41] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:49:41] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:49:41] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:49:44] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:49:44] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:49:44] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:49:44] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=-5096, y=43, z=7448}
+[05:49:44] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:49:44] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:49:53] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ -5144 | 7496 ], underground: false
+[05:54:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT drowned
+[05:54:44] [Thread-79/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 088e63f7-2470-3149-9969-d09ec93dc472.
