@@ -3697,3 +3697,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [05:23:45] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
 [05:23:45] [Server thread/INFO] [Meson ASM]: Patch result: true
 [05:23:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was slain by Mimic
+[05:25:40] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Started: Seastorm In Dimension: 0 Duration: 60secs
+[05:26:40] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Finished: Seastorm
+[05:28:19] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[05:28:19] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[05:28:19] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[05:28:19] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[05:28:19] [Server thread/INFO] [Meson ASM]: Patch result: true
+[05:29:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT drowned
+[05:29:40] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2719ms behind, skipping 54 tick(s)
+[05:29:53] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.routine.IAFOldDeathWormRoutine$WrappedProximityTaskOldDeathWorm
+[05:29:59] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:29:59] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:29:59] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:29:59] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:30:02] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:30:02] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:30:02] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:30:02] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:30:02] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:30:02] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:30:07] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:30:07] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:30:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIFindHidingSpot
+[05:30:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAILeaveHive
+[05:30:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIMoveThroughHive
+[05:30:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIReEnterHive
+[05:30:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedProximityTaskOldMyrmex
+[05:30:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIForage
+[05:30:17] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIEscortEntity
+[05:30:17] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=-4680, y=43, z=7880}
+[05:30:24] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:30:24] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[05:30:24] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
