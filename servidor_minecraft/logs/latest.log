@@ -3829,3 +3829,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [06:13:37] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2237ms behind, skipping 44 tick(s)
 [06:14:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT lost connection: Disconnected
 [06:14:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT left the game
+[06:16:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[06:16:05] [Server thread/INFO] [AUW]: Stopping DS...
+[06:16:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[06:16:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[06:16:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[06:16:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[06:16:08] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[06:16:08] [Server thread/INFO] [FML]: Unloading dimension 0
+[06:16:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[06:16:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[06:16:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
