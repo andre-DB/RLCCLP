@@ -3766,3 +3766,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [05:49:53] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ -5144 | 7496 ], underground: false
 [05:54:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT drowned
 [05:54:44] [Thread-79/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 088e63f7-2470-3149-9969-d09ec93dc472.
+[05:56:09] [Server thread/WARN] [Ice And Fire]: Myrmex picked up resin that wasn't thrown!
+[05:56:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT died from hyperthermia
+[05:57:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[05:57:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[05:57:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[05:57:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[05:57:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[05:58:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[05:58:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[05:58:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[05:58:06] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[05:58:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was slain by Zombie
+[06:00:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT drowned
+[06:01:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2185ms behind, skipping 43 tick(s)
+[06:01:32] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -4184 | -4504 ], underground: false
+[06:01:33] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -4408 | -4440 ], underground: false
+[06:01:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was slain by Ioray  Lvl 2
+[06:01:40] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:01:40] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:01:40] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:01:41] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:01:47] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:01:47] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:01:47] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[06:01:58] [pool-10-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[06:01:58] [pool-10-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[5, 0, 3], dest=[5, 0, 2]}=Path, MazePassage{source=[5, 1, 2], dest=[5, 0, 2]}=Wall, MazePassage{source=[5, -1, 2], dest=[5, 0, 2]}=Wall]
+[06:01:58] [pool-10-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[06:01:58] [pool-10-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[7, 0, 3], dest=[7, 0, 2]}=Path, MazePassage{source=[7, 1, 2], dest=[7, 0, 2]}=Wall, MazePassage{source=[8, 0, 2], dest=[7, 0, 2]}=Path, MazePassage{source=[7, -1, 2], dest=[7, 0, 2]}=Wall]
+[06:01:58] [pool-10-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[06:01:58] [pool-10-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[6, -1, 2], dest=[6, 0, 2]}=Wall, MazePassage{source=[6, 0, 3], dest=[6, 0, 2]}=Path, MazePassage{source=[6, 1, 2], dest=[6, 0, 2]}=Wall]
+[06:01:58] [pool-10-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[06:01:58] [pool-10-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[7, 0, 0], dest=[7, 0, 1]}=Path, MazePassage{source=[7, -1, 1], dest=[7, 0, 1]}=Wall, MazePassage{source=[7, 1, 1], dest=[7, 0, 1]}=Wall, MazePassage{source=[8, 0, 1], dest=[7, 0, 1]}=Path]
+[06:01:58] [pool-10-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[06:01:58] [pool-10-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[6, -1, 1], dest=[6, 0, 1]}=Wall, MazePassage{source=[6, 1, 1], dest=[6, 0, 1]}=Wall, MazePassage{source=[6, 0, 0], dest=[6, 0, 1]}=Path]
+[06:01:58] [pool-10-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[06:01:58] [pool-10-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[7, 0, 0], dest=[7, 0, 1]}=Path, MazePassage{source=[7, -1, 1], dest=[7, 0, 1]}=Wall, MazePassage{source=[7, 1, 1], dest=[7, 0, 1]}=Wall, MazePassage{source=[8, 0, 1], dest=[7, 0, 1]}=Path]
+[06:01:58] [pool-10-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[06:01:58] [pool-10-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[7, 0, 3], dest=[7, 0, 2]}=Path, MazePassage{source=[7, 1, 2], dest=[7, 0, 2]}=Wall, MazePassage{source=[8, 0, 2], dest=[7, 0, 2]}=Path, MazePassage{source=[7, -1, 2], dest=[7, 0, 2]}=Wall]
+[06:02:00] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 13025ms behind, skipping 260 tick(s)
+[06:02:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was slain by Sea Serpent
+[06:02:53] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3597ms behind, skipping 71 tick(s)
+[06:04:08] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
+[06:04:08] [Server thread/WARN] [com.ferreusveritas.dynamictrees.trees.TreeFamily]: Block Block{dynamictrees:darkoakbranchx} not valid branch for dynamictrees:darkoak.
