@@ -3707,3 +3707,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [00:24:47] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
 [00:24:47] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
 [00:24:48] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[00:32:30] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[00:32:30] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[00:32:30] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[00:32:30] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[00:32:30] [Server thread/INFO] [Meson ASM]: Patch result: true
