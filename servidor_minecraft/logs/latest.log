@@ -3736,3 +3736,230 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [00:51:49] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -6136 | -7704 ], underground: false
 [01:05:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was doomed to fall by Argus  Lvl 2
 [01:05:27] [Thread-86/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 088e63f7-2470-3149-9969-d09ec93dc472.
+[01:06:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was slain by Argus  Lvl 2
+[01:12:46] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.routine.IAFOldDeathWormRoutine$WrappedProximityTaskOldDeathWorm
+[01:13:03] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -408 and chunkZ -459...
+[01:13:03] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_desert_builtin_custom_loot at {"x": -6212, "y": 0, "z": -7208}...
+[01:13:05] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_desert_builtin_custom_loot at {"x": -6212, "y": 0, "z": -7208}.
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -7.585631958292652,0.0,6.72455294395786
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -7.8131189651185196,0.0,6.9051278723072755
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -8.017857265838757,0.0,7.067645303516656
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -8.202121731605075,0.0,7.213910987729832
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -8.367959746401539,0.0,7.345550100034416
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -8.517213955764419,0.0,7.464025297970693
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -8.651542740632976,0.0,7.570652973287906
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -8.772438643812166,0.0,7.666617878531724
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -8.881244953790883,0.0,7.752986290963236
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -8.979170630177578,0.0,7.830717860092591
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.067303736590475,0.0,7.900676270455733
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.146623530261422,0.0,7.963638838114093
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.21801134267389,0.0,8.020305147505496
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.282260372143355,0.0,8.071304824607068
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.34008449713383,0.0,8.117204532782125
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.392126208246736,0.0,8.158514269045554
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.43896374700762,0.0,8.19569303069784
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.481117530775919,0.0,8.229153915298411
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.519055935162214,0.0,8.259268710640754
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.553200498205115,0.0,8.286372025730998
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.583930604129819,0.0,8.31076500866584
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.611587698729636,0.0,8.332718692726303
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.636479083209451,0.0,8.352477007856578
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.658881328648022,0.0,8.370259491002798
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.67904334900868,0.0,8.386263725410572
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.697189166852695,0.0,8.400667535996035
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.713520402479844,0.0,8.413630965179436
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.728218514154833,0.0,8.425298051135542
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.74144681431153,0.0,8.435798428217822
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.75335228413769,0.0,8.445248767341582
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.764067206697291,0.0,8.453754072327683
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.777762361193709,0.0,8.464338612809115
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.794234932072868,0.0,8.47665807532394
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.813334528541418,0.0,8.490339912794298
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.83494636202613,0.0,8.504986841000573
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.858974640915221,0.0,8.520180371445349
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.885326722444006,0.0,8.535485178944327
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.913898947645066,0.0,8.550453469832973
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -9.94456383506531,0.0,8.564631069947609
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -10.012138010280978,0.0,8.578782716235764
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -10.112830314697021,0.0,8.588366306262287
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -10.242798497968579,0.0,8.589783076581625
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -10.398285919332011,0.0,8.580264051788618
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -10.57571414317772,0.0,8.557749399052227
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -10.771745469315647,0.0,8.520783716610822
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -10.983317678038475,0.0,8.468412303708647
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -11.20765950544137,0.0,8.40008914092141
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -11.442688946668568,0.0,8.316171834240777
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -11.686978341889699,0.0,8.217698665705939
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -11.93967632422482,0.0,8.106232141405599
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -12.200401586573207,0.0,7.983746893637544
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -12.46912259916462,0.0,7.8525494439973045
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -12.746038317320199,0.0,7.715228082996873
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -13.031458022072911,0.0,7.574612964091102
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -13.325681624600293,0.0,7.433731565183734
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -13.628693046967783,0.0,7.295106927236702
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -13.94024888504373,0.0,7.160804213429401
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -14.259949275602594,0.0,7.0324820322639425
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -14.587293194226731,0.0,6.911445487548917
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -14.921719383303753,0.0,6.79868733800231
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -15.262638534336475,0.0,6.694935933407578
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -15.609465407341304,0.0,6.60139093437283
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -15.961536411730776,0.0,6.51961881630541
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -16.31802966981013,0.0,6.451456536829937
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -16.67789326019465,0.0,6.3989119499874505
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -17.039785155657228,0.0,6.364067087577496
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -17.402308078363603,0.0,6.348335878976286
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -17.764096638590672,0.0,6.3525755065529665
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -18.123872711206786,0.0,6.377191620224949
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -18.480482399894754,0.0,6.42222456017771
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -18.832915357465936,0.0,6.48742690515337
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -19.18031055123629,0.0,6.572331623060563
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -19.5219572460137,0.0,6.676305261169546
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -19.857286348315938,0.0,6.798596335104776
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -20.185859535353302,0.0,6.938373482853422
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -20.507357990310993,0.0,7.094754899026157
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -20.821572014505364,0.0,7.26683043171397
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -21.128383154866242,0.0,7.453684502041142
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -21.427758217928385,0.0,7.65440570118335
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -21.71973007836459,0.0,7.868103297352718
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -22.00439162537441,0.0,8.093911933224263
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -22.28188638239226,0.0,8.330997295300222
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -22.55239278560748,0.0,8.578564397741502
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -22.816122460337283,0.0,8.835856201423667
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -23.073311763077072,0.0,9.102155943643083
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -23.324213781912476,0.0,9.376788698406017
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -23.569094189766474,0.0,9.6591204896431
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -23.80884106018675,0.0,9.948224850747465
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -24.044830930328317,0.0,10.242933184857975
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -24.278796383283407,0.0,10.541853576218273
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -24.512700745938673,0.0,10.843369704896759
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -24.748622990605327,0.0,11.145627854110899
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -24.988132058233532,0.0,11.447008077773717
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -25.232386320135447,0.0,11.746116620508474
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -25.48220599445267,0.0,12.041782191386119
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -25.73814095475427,0.0,12.333039903316603
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -26.000528280217623,0.0,12.61911055629298
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -26.26953409494945,0.0,12.899386470109675
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -26.54519338031696,0.0,13.173409197063847
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -26.82743913777449,0.0,13.44085302104213
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -27.116130691769285,0.0,13.701501508729052
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -27.41106775551725,0.0,13.955241329205819
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -27.712011390142834,0.0,14.202038921956046
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -28.01869589416674,0.0,14.441928507686498
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -28.33083700437237,0.0,14.675004099482976
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -28.648141884288634,0.0,14.901404899525005
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -28.970315673757796,0.0,15.121305117733755
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -29.297063773743503,0.0,15.334911519665184
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -29.62809810478211,0.0,15.54245044048912
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -29.96313782593188,0.0,15.744166455739105
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -30.301912649136284,0.0,15.940313965371388
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -30.644164089889273,0.0,16.131153028996778
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -30.98964504311425,0.0,16.316949120287973
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -31.338123301833548,0.0,16.497962056041615
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -31.689377873161902,0.0,16.674453948183327
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -32.043200930261264,0.0,16.846681932525826
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -32.39939809016141,0.0,17.014895173922014
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -32.75778732269191,0.0,17.179335755560714
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -33.11819918668971,0.0,17.34023584251827
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -33.48047572756332,0.0,17.497818729451865
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -33.84446948509503,0.0,17.652299783519993
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -34.21004378138423,0.0,17.803883638501247
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -34.57707173202107,0.0,17.952765302593434
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -34.945435344969155,0.0,18.099131147047046
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -35.315025886750846,0.0,18.243156144222667
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -35.68574299756892,0.0,18.385005021448706
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -36.05749389864195,0.0,18.524833300426508
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -36.430193826195136,0.0,18.66278457446151
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -36.803764090021104,0.0,18.79899536139783
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -37.17813150337588,0.0,18.93359582327321
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -37.5532289949233,0.0,19.066706747389617
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -37.928995015819964,0.0,19.198440490305984
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -38.30537299491516,0.0,19.32890182277697
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -38.68231085588559,0.0,19.458188691126452
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -39.059761703964796,0.0,19.586389241454526
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -39.437681046533726,0.0,19.713590126376403
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -39.816028825337526,0.0,19.839869327655833
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -40.194968633703866,0.0,19.964628239617923
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -40.574792295316,0.0,20.086723437361798
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -40.955835537954044,0.0,20.204559359685845
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -41.33828162024474,0.0,20.316871337891826
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -41.72220256993478,0.0,20.422681030769127
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -42.10759138839694,0.0,20.52125375750802
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -42.494386523360845,0.0,20.612062136917302
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -42.88249037024525,0.0,20.69475982388758
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -43.27178379621728,0.0,20.769141720775224
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -43.66213638062072,0.0,20.83512678007719
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -44.01345369727733,0.0,20.894513331875714
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -44.3296392738921,0.0,20.94796122707885
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -44.614206285306864,0.0,20.996064331487105
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -44.870316588795504,0.0,21.03935712430757
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -45.10081585582975,0.0,21.07832063681417
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -45.308265190664315,0.0,21.113387797140604
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -45.494969587070045,0.0,21.14494824059875
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -45.66300353938368,0.0,21.17335263895893
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -45.81423409245963,0.0,21.198916596805248
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -45.95034158662202,0.0,21.221924158257934
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -46.072838328123,0.0,21.24263096301638
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -46.18308539255395,0.0,21.261267086805674
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -46.282307747913364,0.0,21.278039597771567
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -46.371607865370606,0.0,21.293134857241057
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -46.45197796895354,0.0,21.30672059040353
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -46.524311060261425,0.0,21.318947749926338
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -46.58941084071466,0.0,21.329952193204917
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -46.648000641570434,0.0,21.339856191892977
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -46.70073146094364,0.0,21.34876979047658
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -46.748189197121974,0.0,21.35679202898882
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -46.790901158551605,0.0,21.364012043459297
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -46.82934192281937,0.0,21.370510056310195
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -46.863938609743855,0.0,21.376358267721116
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -46.89507562715153,0.0,21.38162165785161
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -46.92309894207574,0.0,21.386358708843545
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -46.94831992483978,0.0,21.390622054623236
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -46.9710188087256,0.0,21.394459065722913
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -46.991447803681694,0.0,21.397912375621672
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.009833898655415,0.0,21.40102035444852
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.02638138369366,0.0,21.403817535318012
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.04127411983336,0.0,21.406334998034254
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.05467758200393,0.0,21.408600714418753
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.066740697638124,0.0,21.410639859110233
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.077597501421224,0.0,21.41247508928427
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.08736862456681,0.0,21.414126796396886
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.096162635165456,0.0,21.415613332758767
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.104077244493965,0.0,21.416951215449444
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.111200392700994,0.0,21.418155309838767
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.117611225917244,0.0,21.419238994761145
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.12338097565953,0.0,21.420214311165182
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.12857375028943,0.0,21.421092095905806
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.1332472473332,0.0,21.421882102151358
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.13745339456091,0.0,21.422593107753528
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.14123892696534,0.0,21.423233012777928
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.14464590603893,0.0,21.42380892728488
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.14771218712394,0.0,21.424327250327224
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.15047184002742,0.0,21.42479374105369
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.152955527574704,0.0,21.425213582696415
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.15519084630796,0.0,21.42559144016468
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.15720263311505,0.0,21.425931511877025
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.15901324119295,0.0,21.42623757641013
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.160642788419864,0.0,21.426513034482014
+[01:13:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -47.16210938088534,0.0,21.426760946740615
+[01:13:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -39.8305607033908,0.0,14.903069938401131
+[01:13:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -39.83174864322518,0.0,14.903270747319766
+[01:13:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of MrAgic_YT) moved too quickly! -39.83281778904802,0.0,14.90345147534208
+[01:13:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 12265ms behind, skipping 245 tick(s)
+[01:13:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved wrongly!
+[01:13:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT lost connection: Disconnected
+[01:13:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT left the game
+[01:13:43] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[01:13:43] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 187 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,chunkpregenerator@4.4.9,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,carbonconfig@1.2.1,xpbook@v1.1.6
+[01:13:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:13:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MrAgic_YT[/127.147.143.38:41695] logged in with entity id 79724 at (-6429.716197283467, 64.65656534512418, -7383.920988623502)
+[01:13:44] [Server thread/INFO] [dsurround]: Player [MrAgic_YT] connected with Dynamic Surroundings 3.6.2.1
+[01:13:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT joined the game
+[01:13:44] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player MrAgic_YT
+[01:13:44] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: MrAgic_YT
+[01:13:44] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: MrAgic_YT
+[01:13:44] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player MrAgic_YT
+[01:13:44] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player MrAgic_YT
+[01:13:44] [Server thread/INFO] [XAT]: Syncing Config to MrAgic_YT
+[01:14:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was slain by Siren
+[01:14:09] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2798ms behind, skipping 55 tick(s)
+[01:15:39] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 510 and chunkZ 51...
