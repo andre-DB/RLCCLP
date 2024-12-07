@@ -3773,3 +3773,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [06:08:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved too quickly! 4.293337405712009,-1.7684762024129839,8.971271388820242
 [06:08:57] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 11099ms behind, skipping 221 tick(s)
 [06:10:28] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 8008 | 6184 ], underground: true
+[06:13:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT lost connection: Disconnected
+[06:13:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT left the game
+[06:13:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[06:13:24] [Server thread/INFO] [AUW]: Stopping DS...
+[06:13:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[06:13:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[06:13:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[06:13:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[06:13:27] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[06:13:27] [Server thread/INFO] [FML]: Unloading dimension 0
+[06:13:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[06:13:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[06:13:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
