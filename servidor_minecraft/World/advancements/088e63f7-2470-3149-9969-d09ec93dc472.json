@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-07 00:48:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-01 04:35:31 +0000"
@@ -388,6 +394,12 @@
   "mujmajnkraftsbettersurvival:wood_battleaxe": {
     "criteria": {
       "has_stick": "2024-11-30 00:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-07 00:48:32 +0000"
     },
     "done": true
   },

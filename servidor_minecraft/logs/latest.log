@@ -3732,3 +3732,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [00:45:32] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_cave at {"x": -5940, "y": 0, "z": -8327}.
 [00:45:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved too quickly! -6.098356552353835,-1.0,8.031563527078106
 [00:45:32] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3661ms behind, skipping 73 tick(s)
+[00:49:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved wrongly!
+[00:51:49] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -6136 | -7704 ], underground: false
