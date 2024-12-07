@@ -3734,3 +3734,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [00:45:32] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3661ms behind, skipping 73 tick(s)
 [00:49:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved wrongly!
 [00:51:49] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -6136 | -7704 ], underground: false
+[01:05:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was doomed to fall by Argus  Lvl 2
+[01:05:27] [Thread-86/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 088e63f7-2470-3149-9969-d09ec93dc472.
