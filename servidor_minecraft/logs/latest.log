@@ -3747,3 +3747,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [06:01:23] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
 [06:01:31] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2823ms behind, skipping 56 tick(s)
 [06:01:45] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=-4216, y=42, z=3464}
+[06:03:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2018ms behind, skipping 40 tick(s)
+[06:03:57] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -255 and chunkZ 204...
+[06:03:57] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_villager_house at {"x": -3931, "y": 0, "z": 2922}...
+[06:04:00] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_villager_house at {"x": -3931, "y": 0, "z": 2922}.
+[06:04:00] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3507ms behind, skipping 70 tick(s)
+[06:04:45] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ -4376 | 3688 ], underground: true
+[06:08:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT was shot by MrAgic_YT
+[06:08:28] [Thread-77/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 088e63f7-2470-3149-9969-d09ec93dc472.
+[06:08:37] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 510 and chunkZ 357...
+[06:08:37] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_cave at {"x": 8164, "y": 0, "z": 5386}...
+[06:08:41] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_cave at {"x": 8164, "y": 0, "z": 5386}.
+[06:08:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved too quickly! -5.9271232929295365,5.0,6.6528343937225145
+[06:08:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 15217ms behind, skipping 304 tick(s)
+[06:08:48] [pool-13-thread-1/WARN] [ivtoolkit]: Maze is not completable!
+[06:08:48] [pool-13-thread-1/WARN] [ivtoolkit]: Switching to flawed mode.
+[06:08:48] [pool-13-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[06:08:48] [pool-13-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[5, 1, 8], dest=[5, 1, 9]}=Path, MazePassage{source=[5, 2, 9], dest=[5, 1, 9]}=Wall]
+[06:08:48] [pool-13-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[06:08:48] [pool-13-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[3, 4, 6], dest=[3, 3, 6]}=Wall, MazePassage{source=[4, 3, 6], dest=[3, 3, 6]}=Path]
+[06:08:48] [pool-13-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[06:08:48] [pool-13-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[7, 2, 2], dest=[7, 1, 2]}=Wall, MazePassage{source=[8, 1, 2], dest=[7, 1, 2]}=Path]
+[06:08:48] [pool-13-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[06:08:48] [pool-13-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[5, 1, 4], dest=[5, 1, 3]}=Path, MazePassage{source=[5, 2, 3], dest=[5, 1, 3]}=Wall]
+[06:08:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved too quickly! 4.293337405712009,-1.7684762024129839,8.971271388820242
+[06:08:57] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 11099ms behind, skipping 221 tick(s)
+[06:10:28] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 8008 | 6184 ], underground: true
