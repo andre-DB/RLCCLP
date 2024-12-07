@@ -3712,3 +3712,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [00:32:30] [Server thread/INFO] [Meson ASM]: Located method, patching...
 [00:32:30] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
 [00:32:30] [Server thread/INFO] [Meson ASM]: Patch result: true
+[00:36:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MrAgic_YT has made the advancement [Ice Bucket Challenge]
+[00:43:05] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAILeaveHive
+[00:43:05] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIMoveThroughHive
+[00:43:05] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIReEnterHive
+[00:43:05] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedProximityTaskOldMyrmex
+[00:43:05] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIFindHidingSpot
+[00:43:05] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIEscortEntity
+[00:43:05] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIForage
+[00:43:06] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=-5816, y=44, z=-8360}
+[00:43:28] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[00:43:28] [Server thread/INFO] [RB-Transformer]:  - <init>
+[00:43:28] [Server thread/INFO] [RB-Transformer]:  - Done
+[00:43:28] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[00:43:28] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[00:43:28] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[00:45:28] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -357 and chunkZ -510...
+[00:45:29] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_cave at {"x": -5940, "y": 0, "z": -8327}...
+[00:45:32] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_cave at {"x": -5940, "y": 0, "z": -8327}.
+[00:45:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MrAgic_YT moved too quickly! -6.098356552353835,-1.0,8.031563527078106
+[00:45:32] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3661ms behind, skipping 73 tick(s)
