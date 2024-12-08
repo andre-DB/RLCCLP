@@ -362,6 +362,12 @@
     },
     "done": true
   },
+  "defiledlands:main/discover_all_biomes": {
+    "criteria": {
+      "forest_vilespine": "2024-12-08 07:25:23 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2024-11-30 06:42:05 +0000"
@@ -1462,6 +1468,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_iron_nugget": "2024-12-01 22:49:31 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:main/root": {
+    "criteria": {
+      "forest_vilespine": "2024-12-08 07:25:23 +0000"
     },
     "done": true
   },
