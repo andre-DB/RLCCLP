@@ -621,6 +621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-08 07:49:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 07:30:37 +0000"
@@ -733,6 +739,8 @@
     "criteria": {
       "skeleton": "2024-11-30 08:46:24 +0000",
       "zombie": "2024-11-30 08:52:53 +0000",
+      "witch": "2024-12-08 07:49:06 +0000",
+      "spider": "2024-12-08 07:51:12 +0000",
       "creeper": "2024-11-30 08:42:17 +0000"
     },
     "done": false
