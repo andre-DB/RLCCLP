@@ -374,6 +374,13 @@
     },
     "done": true
   },
+  "defiledlands:main/kill_all_mobs": {
+    "criteria": {
+      "scuttler": "2024-12-08 07:34:04 +0000",
+      "slime_defiled": "2024-12-08 07:34:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-11-30 07:49:10 +0000"
@@ -746,6 +753,7 @@
       "skeleton": "2024-12-01 03:37:29 +0000",
       "zombie": "2024-11-30 08:00:05 +0000",
       "cave_spider": "2024-12-01 04:06:50 +0000",
+      "witch": "2024-12-08 07:45:06 +0000",
       "creeper": "2024-12-01 23:49:14 +0000",
       "enderman": "2024-12-01 03:36:35 +0000"
     },
